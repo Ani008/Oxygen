@@ -1,6 +1,6 @@
 # Clothing Store Landing Page
 
-![alt text](/images/WEBUI.png)
+![alt text](WEBUI.png)
 
 A clothing store landing page.
 
